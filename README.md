@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jineun Jeong</h1>
-<h3 align="center">A iOS application developer in korea.</h3>
+# 🤖 Good day
 
-- 🔭 I’m currently working on **SOCAR**
-- 🌱 I’m currently learning **iOS, Rx, SwiftUI, Combine... 💪**
-- 📝 I regularly write articles on [blog](https://www.notion.so/wlsdms0122/Blog-9aeaca5bf0ce47b38e0a582fce0f4b4b)
-- 💬 Ask me about **everything that i know**
-- 📫 How to reach me **wlsdms0122@gmail.com**
-- 📄 Know about my experiences [resume](https://www.notion.so/wlsdms0122/Resume-2050d044cfdd41df98931f8420475f80)
+<a href="https://github.com/wlsdms0122">
+    <image src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
+</a>
+<a href="https://wlsdms0122.notion.site/Blog-9aeaca5bf0ce47b38e0a582fce0f4b4b">
+    <image src="https://img.shields.io/badge/Blog-181717?style=flat&logo=notion" />
+</a>
+<a href="https://www.linkedin.com/in/jineun-jeong-810a1b228/">
+    <image src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />
+</a>
+<a href="https://wlsdms0122.notion.site/Resume-2050d044cfdd41df98931f8420475f80">
+    <image src="https://img.shields.io/badge/Resume-181717?style=flat&logo=notion" />
+</a>
